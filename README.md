@@ -25,3 +25,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![Snake Animation](https://github.com/gaiascosta/gaiascosta/blob/output/github-contribution-grid-snake.svg)
