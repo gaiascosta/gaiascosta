@@ -1,9 +1,9 @@
 - 👋 Hello! I’m Gabriela Costa
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.linkedin.com/in/gaias-costa/"><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=512&id=60444&format=png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="gaiascosta@gmail.com"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
