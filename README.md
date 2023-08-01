@@ -1,4 +1,4 @@
-- 👋 Hello! I’m Gabriela Costa
+- 👋 Hello, I'm Gabi Costa!
 
 ## Estatísticas
 
