@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Gabi Costa!
 
-## Estatísticas
+## Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaiascosta&hide=issues&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/gaiascosta/gaiascosta#gh-dark-mode-only)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaiascosta&hide=issues&show_icons=true&icon_color=8808bf&text_color=10a392&title_color=2239ab&bg_color=f2f2f7#gh-light-mode-only)](https://github.com/gaiascosta/gaiascosta#gh-light-mode-only)
@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiascosta&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL#gh-dark-mode-only)](https://github.com/gaiascosta/gaiascosta#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiascosta&layout=compact&text_color=10a392&title_color=2239ab&bg_color=f2f2f7&hide=ShaderLab,HLSL#gh-light-mode-only)](https://github.com/gaiascosta/gaiascosta#gh-light-mode-only)
 
-## Ferramentas e Frameworks
+## Tools & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## Linguagens
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
