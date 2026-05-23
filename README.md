@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiascosta&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL#gh-dark-mode-only)](https://github.com/gaiascosta/gaiascosta#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiascosta&layout=compact&text_color=10a392&title_color=2239ab&bg_color=f2f2f7&hide=ShaderLab,HLSL#gh-light-mode-only)](https://github.com/gaiascosta/gaiascosta#gh-light-mode-only)
 
-## Tools & Frameworks
+## Tools and Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
